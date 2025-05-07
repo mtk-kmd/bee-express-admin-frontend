@@ -9,13 +9,13 @@ export default function Document() {
                     rel="stylesheet"
                     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
                     crossOrigin="anonymous"
-                    referrerpolicy="no-referrer"
+                    referrerPolicy="no-referrer"
                 ></link>
                 <link
                     rel="stylesheet"
                     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/js/all.min.js"
                     crossOrigin="anonymous"
-                    referrerpolicy="no-referrer"
+                    referrerPolicy="no-referrer"
                 ></link>
             </Head>
             <body>

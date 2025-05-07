@@ -43,7 +43,7 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Bee Express - Login</title>
+                <title>Bee Express Admin - Login</title>
                 <meta name="description" content="Bee Express Login" />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
@@ -54,7 +54,7 @@ export default function Home() {
                         <div className="col-md-6 col-lg-4">
                             <div className="card shadow">
                                 <div className="card-body p-4">
-                                    <h2 className="text-center mb-4">Bee Express</h2>
+                                    <h2 className="text-center mb-4">Bee Express Admin</h2>
                                     <form onSubmit={handleSubmit}>
                                         <div className="mb-3">
                                             <label htmlFor="email" className="form-label">
