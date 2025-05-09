@@ -7,7 +7,7 @@ services:
     networks:
       - server
     ports:
-      - 3000:3000
+      - 3500:3000
     restart: always
 
 networks:
